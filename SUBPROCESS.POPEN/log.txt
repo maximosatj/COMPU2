@@ -1,0 +1,2 @@
+2023-04-26 21:38:12.189723: /bin/sh: 1: ls-l: not found
+2023-04-26 21:38:31.311196: Comando "ls -l" ejecutado correctamente.

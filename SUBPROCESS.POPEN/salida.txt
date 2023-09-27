@@ -1,0 +1,4 @@
+total 4
+-rwxrwxrwx 1 maximosat maximosat 1835 Apr 26 21:32 ejecutor.py
+-rwxrwxrwx 1 maximosat maixmosat   56 Apr 26 21:38 log.txt
+-rwxrwxrwx 1 maximosat  maximosat    0 Apr 26 21:38 salida.txt
